@@ -1,0 +1,30 @@
+.zenparent-admin-section {
+	background-color: #fff;
+	padding: 5px;
+	border: rgba(0, 0, 0, 0.2) 1px solid;
+	margin: 5px;
+}
+
+.zenparent-admin-section table th {
+	text-align: right;
+}
+
+.zenparent-admin-section table td {
+	text-align: left;
+}
+
+
+.zenparent-locator-wrap {
+	width: 500px;
+	height: auto; 
+}
+
+#zenparent-locator-map-container {
+	width: 100%;
+	height: 500px;
+}
+
+.zp-result-item {
+	border-bottom: rgb(100, 100, 100) 1px solid;
+	padding: 10px;
+}
